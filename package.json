@@ -51,7 +51,7 @@
     "link-preview-js": "^3.0.5",
     "lodash": "^4.17.21",
     "lowdb": "^5.0.5",
-    "moment-timezone": "^0.5.41",
+    "moment-timezone": "^0.6.0",
     "mongoose": "^7.0.0",
     "node-cache": "*",
     "node-fetch": "*",
