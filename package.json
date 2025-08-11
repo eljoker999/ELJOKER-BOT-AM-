@@ -44,7 +44,7 @@
     "fluent-ffmpeg": "*",
     "form-data": "^4.0.0",
     "formdata-node": "^5.0.0",
-    "got": "12.5.3",
+    "got": "12.6.1",
     "human-readable": "^0.2.1",
     "jimp": "^0.16.1",
     "jsdom": "^19.0.0",
